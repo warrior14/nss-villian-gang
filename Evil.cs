@@ -25,7 +25,7 @@ namespace VillianGang
 
         public void Reassemble()
         {
-            Console.WriteLine($"{Name} Assemble");
+            Console.WriteLine($"{Name} Assemble!");
         }
     }
 }
