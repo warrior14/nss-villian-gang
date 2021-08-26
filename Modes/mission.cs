@@ -1,4 +1,4 @@
-namespace Evil.Modes
+namespace VillainGang.Modes;
 {
     public class Mission
     {

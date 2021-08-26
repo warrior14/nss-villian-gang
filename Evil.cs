@@ -3,7 +3,7 @@ using System.Collections.Generic;
 // using VillianGang.Modes;
 
 
-namespace VillianGang
+namespace VillainGang
 {
     public class Evil 
     {
@@ -11,7 +11,7 @@ namespace VillianGang
 
         public Evil()
         {
-            Name = "Unamed Villian Gang";
+            Name = "Unamed Villain Gang";
         }
 
         public Evil(string name)
